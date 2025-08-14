@@ -19,7 +19,7 @@ Perform a **basic vulnerability scan** on a target machine (router) using **Open
 
 | Parameter        | Value           |
 |------------------|------------------|
-| Target IP        | `192.168.31.1` *(Local router)* |
+| Target IP        | `192.168.**.*` *(Local router)* |
 | Scan Profile     | Full and fast    |
 | Total Scan Time  | ~5 hours         |
 
