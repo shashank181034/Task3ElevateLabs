@@ -39,5 +39,3 @@ Perform a **basic vulnerability scan** on a target machine (router) using **Open
 > 🔐 No **High** or **Critical** severity vulnerabilities were found.
 
 ---
-
-## 📄 Files Included
